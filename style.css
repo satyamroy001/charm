@@ -15,7 +15,11 @@ body{
     color: #777;
     
 }
-
+.rectangle{
+    height: 59px;
+    width: 2000px;
+    background-color: rgb(255, 255, 255);
+}
 .main-title{
     text-align: center;
     margin-top: 4rem;
